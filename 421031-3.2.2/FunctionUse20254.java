@@ -1,0 +1,7 @@
+import org.apache.hadoop.fs.permission.FsPermission;
+public class FunctionUse20254 {
+public void funcUse() {
+FsPermission fspermission = new FsPermission();
+fspermission.getErasureCodedBit();
+}
+}

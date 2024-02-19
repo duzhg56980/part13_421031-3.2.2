@@ -1,0 +1,7 @@
+import org.apache.hadoop.util.ReadWriteDiskValidatorMetrics;
+public class FunctionUse4317 {
+public void funcUse() {
+ReadWriteDiskValidatorMetrics readwritediskvalidatormetrics = new ReadWriteDiskValidatorMetrics();
+readwritediskvalidatormetrics.sourceName(null);
+}
+}
